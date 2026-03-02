@@ -1,0 +1,6 @@
+10111 accept
+101 accept
+10001 accept
+1100 reject
+111 reject
+0110 reject
